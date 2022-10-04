@@ -68,7 +68,7 @@
    * spacing
    */
 
-  --section-padding: 120px;
+  --section-padding: 200px;
 
   /**
    * gradient
@@ -176,9 +176,9 @@ body {
   padding-inline: 15px;
 }
 
-.section {
+/* .section {
   padding-block: var(--section-padding);
-}
+} */
 
 .h1,
 .h2,
