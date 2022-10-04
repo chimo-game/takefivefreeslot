@@ -176,9 +176,9 @@ body {
   padding-inline: 15px;
 }
 
-/* .section {
+.section {
   padding-block: var(--section-padding);
-} */
+}
 
 .h1,
 .h2,
@@ -546,7 +546,7 @@ body {
   background-size: cover;
   background-position: center;
   text-align: center;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: grid;
   align-items: center;
 }
