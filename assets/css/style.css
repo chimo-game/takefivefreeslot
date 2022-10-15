@@ -253,6 +253,7 @@ body {
   gap: 30px;
   overflow-x: auto;
   padding-block-end: 30px;
+  margin: 32px;
   scroll-snap-type: inline mandatory;
 }
 
